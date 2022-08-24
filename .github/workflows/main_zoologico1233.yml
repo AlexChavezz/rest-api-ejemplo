@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'zoologico1233'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E75C0D65A824D979ADD652095AAB4B2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1894A4220A424AFE9F187F77A6932A97 }}
           package: .
